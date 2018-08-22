@@ -11,10 +11,10 @@
 // Import the code
 require_once('vimeo-hls-to-mpeg-dash.php');
 
-// Get your Vimeo m3u8 link
+// Get your Vimeo .m3u8 link
 $m3u8 = 'link_to_your_hls_stream';
 
-// Check if the link is in expected format (optional) and convert it to an HLS link
+// Check if the link is in expected format (optional) and convert it to a .mpd link
 if (Vimeo_HLS_to_MPEG_DASH::is_link_hls($m3u8)) {
     
     $mpd = Vimeo_HLS_to_MPEG_DASH::convert($m3u8);
