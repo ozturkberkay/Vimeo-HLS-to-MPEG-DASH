@@ -38,4 +38,4 @@ Berkay Öztürk – info@berkayozturk.net
 
 Distributed under the GNU General Public License v3.0 license. See ``LICENSE`` for more information.
 
-[https://github.com/berkayozturk/Vimeo-HLS-to-MPEG-DASH](https://github.com/berkayozturk/Vimeo-HLS-to-MPEG-DASH)
+[https://github.com/ozturkberkay/Vimeo-HLS-to-MPEG-DASH](https://github.com/ozturkberkay/Vimeo-HLS-to-MPEG-DASH)
